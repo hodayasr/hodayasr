@@ -9,8 +9,8 @@
 ### 
 
 📫 How to reach me: 
-## Email : Hodaya_s@hotmail.com
-## LinkedIn : https://www.linkedin.com/in/hodaya-sror/
+#### Email : Hodaya_s@hotmail.com
+#### LinkedIn : https://www.linkedin.com/in/hodaya-sror/
 ### 
 
  Technical Skills :
