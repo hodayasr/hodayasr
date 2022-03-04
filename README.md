@@ -1,4 +1,16 @@
 ### Hi there 👋
+### My name is Hodaya Sror
+
+
+- I have a B.Sc. in Computer Science and Math.
+- I'm currently looking for a suitable position in software/android development.
+- Great technical skills – Fast learner, motivated and out-of-the-box thinking.
+- I'm passionate about coding and a real computer geek .
+
+- 📫 How to reach me: 
+### Email : Hodaya_s@hotmail.com
+### LinkedIN : https://www.linkedin.com/in/hodaya-sror/
+
 
 <!--
 **hodayasr/hodayasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
