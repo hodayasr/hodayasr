@@ -8,9 +8,9 @@
 - I'm passionate about coding and a real computer geek .
 ### 
 
-- 📫 How to reach me: 
-### Email : Hodaya_s@hotmail.com
-### LinkedIn : https://www.linkedin.com/in/hodaya-sror/
+📫 How to reach me: 
+## Email : Hodaya_s@hotmail.com
+## LinkedIn : https://www.linkedin.com/in/hodaya-sror/
 ### 
 
  Technical Skills :
