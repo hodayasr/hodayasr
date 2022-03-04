@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### My name is Hodaya Sror
 
-
 - I have a B.Sc. in Computer Science and Math.
 - I'm currently looking for a suitable position in software/android development.
 - Great technical skills – Fast learner, motivated and out-of-the-box thinking.
@@ -9,7 +8,13 @@
 
 - 📫 How to reach me: 
 ### Email : Hodaya_s@hotmail.com
-### LinkedIN : https://www.linkedin.com/in/hodaya-sror/
+### LinkedIn : https://www.linkedin.com/in/hodaya-sror/
+
+
+Technical Skills
+•	Programming languages: Python, Java, C, C++, C#.
+•	Databases: MySQL, MSSQL.
+•	IDEs & OS: PyCharm, VS Code, Eclipse, Jupyter, Google Collab, Android Studio, Linux.
 
 
 <!--
