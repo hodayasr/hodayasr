@@ -11,10 +11,11 @@
 ### LinkedIn : https://www.linkedin.com/in/hodaya-sror/
 
 
-- Technical Skills
-- •	Programming languages: Python, Java, C, C++, C#.
-- •	Databases: MySQL, MSSQL.
-- •	IDEs & OS: PyCharm, VS Code, Eclipse, Jupyter, Google Collab, Android Studio, Linux.
+ Technical Skills :
+ 
+- 	Programming languages: Python, Java, C, C++, C#.
+- 	Databases: MySQL, MSSQL.
+- 	IDEs & OS: PyCharm, VS Code, Eclipse, Jupyter, Google Collab, Android Studio, Linux.
 
 
 <!--
