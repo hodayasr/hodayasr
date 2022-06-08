@@ -6,8 +6,6 @@
 - Software Engineer at Motorola Solutions.
 - B.Sc. in Computer Science and Math.
 
---
-
 ### 
 
 📫 How to reach me: 
